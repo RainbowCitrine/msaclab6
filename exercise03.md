@@ -20,3 +20,7 @@
         git config -l
 
 For more information, check out [Customizing Git Configuration](https://www.git-scm.com/book/en/v2/Customizing-Git-Git-Configuration)
+
+
+4. tells git to store this information in its default configuration file for your user account.
+
