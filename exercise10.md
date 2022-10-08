@@ -29,3 +29,5 @@
 9. Examine the contents of the parent and its tree
 
 10. Do the trees you looked at have any matching hashes listed?
+        
+        For me I was not able to really find any matches in the hashes so far.
