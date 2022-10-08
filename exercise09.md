@@ -25,7 +25,7 @@
 
 7. How much of the commit hash do you need to specify? Hint, run `git help log`
                
-            You can just use fourty total, but it is recommend to stick with 12   
+            You can just use fourty total, but it is recommend to stick with 12 or you can use -t, -p, etc to check objects
 8. How can you show just the last three commit messages?
 
              You can show them by simply running the git log command git log -3
