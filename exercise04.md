@@ -18,3 +18,6 @@
 
         git status
 
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	new file:   fruits.txt
