@@ -16,6 +16,8 @@
 
         ls -lA
 
+
 The internals should stored in .git
+
 total 0
 drwxr-xr-x  9 noahgoss  staff  288 Oct  7 17:56 .git
